@@ -1,0 +1,14 @@
+---
+user_login:
+  email: nathalia
+  password: '123456'
+username_invalid:
+  email: natalia
+  password: '123456'
+password_invalid:
+  email: nathalia
+  password: '654896'
+last_id_user_api:
+  nome: joão
+  cpf: 021.346.190-08
+  id: 4960
